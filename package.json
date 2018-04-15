@@ -1,0 +1,27 @@
+{
+  "name": "rtlamr",
+  "version": "0.1.0",
+  "description": "A wrapper for rtlamr ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetheweb/rtlamr.git"
+  },
+  "keywords": [
+    "rtlamr",
+    "rtl-sdr",
+    "rtl",
+    "sdr",
+    "power",
+    "meter"
+  ],
+  "author": "“Max <codetheweb@icloud.com> (https://maxisom.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codetheweb/rtlamr/issues"
+  },
+  "homepage": "https://github.com/codetheweb/rtlamr#readme"
+}
