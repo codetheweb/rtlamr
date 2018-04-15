@@ -1,5 +1,5 @@
 {
-  "name": "rtlamr",
+  "name": "rtlamr-node",
   "version": "0.1.0",
   "description": "A wrapper for rtlamr ",
   "main": "index.js",

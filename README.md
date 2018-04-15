@@ -1,6 +1,9 @@
 # rtlamr-node
 
-A wrapper for [rtlamr](https://github.com/bemasher/rtlamr) in Node.JS.  To use this, rtlamr must be in your $PATH.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
+
+A wrapper for [rtlamr](https://github.com/bemasher/rtlamr) in NodeJS.  To use this, rtlamr must be in your $PATH.
 
 ## Installation
 
